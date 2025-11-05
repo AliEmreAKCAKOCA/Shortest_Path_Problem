@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+    	
+    <version>1.0</version>
+    	
+    <configs>
+        		
+        <config default="true" name="a1" category="opl">
+            			
+            <ref name="spp2.mod" type="model">
+			</ref>
+            			
+            <ref name="spp2.ops" type="setting">
+			</ref>
+            			
+            <ref name="spp2.dat" type="data">
+			</ref>
+            		
+        </config>
+        	
+    </configs>
+    	
+
+</project>

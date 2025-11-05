@@ -1,0 +1,11 @@
+/*********************************************
+ * OPL 22.1.1.0 Model
+ * Author: AliEmre/OptimalRoute.org
+ * Creation Date: 2 Kas 2025 at 23:01:22
+ *********************************************/
+ 
+SheetConnection SPP("spp_data.xlsx");  /* Shortest Path Problem data read from excell  */
+
+ n from SheetRead(SPP,"'problem_size'!B2"); /** Cost Matrix **/
+ c from SheetRead(SPP,"'datac'!B2:F6"); /** Cost Matrix **/
+ R from SheetRead(SPP,"'datar'!B2:F6"); /** Relation Matrix**/
