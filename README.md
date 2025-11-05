@@ -82,7 +82,7 @@ This project focuses on finding the **minimum‐cost path from node 1 to node n*
 
 ---
 
-## Mathematical Model (To Be Added)
+## Mathematical Model 
 
 Add your own formulation under the headings below.
 
@@ -109,6 +109,13 @@ Add your own formulation under the headings below.
 
 > This mathematical model was formulated and implemented in **IBM ILOG CPLEX (OPL)**.
 
+
+## How to run
+- Open the project in **IBM ILOG CPLEX Studio**.
+- Open the SPP2 folder.
+- Run "run configration"
+- View the results in the output console.
+- Modify the data files as needed to test different scenarios.
 
 ---
 

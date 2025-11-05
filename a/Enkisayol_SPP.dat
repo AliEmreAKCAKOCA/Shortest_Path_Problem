@@ -1,8 +1,0 @@
-/*********************************************
- * OPL 12.9.0.0 Data
- * Author: Banusoylu
- * Creation Date: 6 Nis 2021 at 12:12:42
- *********************************************/
-SheetConnection Enkisayol_SPP("Kitap1.xlsx");  /* Enkisayol_SPP klasörünün içindeki Kitap1.xlsx dosyasýndan okunacak */
- c from SheetRead(Enkisayol_SPP,"'Sayfa1'!B2:F6"); /*c matrisi Sayfa1'de B2:F6 arasýnda */
- H from SheetRead(Enkisayol_SPP,"'Sayfa1'!B11:F15"); /*c matrisi Sayfa1'de B11:F15 arasýnda */
