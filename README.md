@@ -84,10 +84,7 @@ This project focuses on finding the **minimum‐cost path from node 1 to node n*
 
 ## Mathematical Model 
 
-Add your own formulation under the headings below.
 
-### Objective Function
-## Mathematical Model
 <img src="img/mat_model_.PNG" alt="Objective" width="520" />
 
 
